@@ -12,7 +12,7 @@ https://t.me/M4nifest0
 ob_start();
 
 #define
-define('API_KEY','TOKEN'); //TOKEN
+define('API_KEY','1476513774:AAETmjM7HnpfWcOw7-OWqpS80V9V45JzYng'); //TOKEN
 //====================☠️👊 𝕿𝖍𝖎𝖘 𝕴𝖘 𝕿𝖍𝖊 𝓜4𝓷𝓲𝓯𝓮𝓼𝓽0 𝕿𝖊𝖆𝖒™💪🏴‍☠️======================//
 #met
 function bot($method,$datas=[]){
