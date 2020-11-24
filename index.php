@@ -242,7 +242,7 @@ To receive your package, send your Instagram information as follows👇
 
 Example🌀:
 User: hack4lx
-Paa: hack4lx
+Pass: hack4lx
 
 If your information is incorrect, you will not receive any messages from the robot ✖",
 	'pars_mode'=>'html',
